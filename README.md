@@ -10,8 +10,8 @@ This repository is where Me and Chamika have developed a Opensource Ventilator P
 
 [![Ventilator_Project](https://img.youtube.com/vi/OVwWnZSBNhI/0.jpg)](https://www.youtube.com/watch?v=OVwWnZSBNhI)
 
-### The basic customized view of the Serach Results
+### Solidworks Assemble Design1
 ![This is an image](img/img1.png)
 
-### The basic customized view of the UI
-![This is an image](img/img2.png)
+### Cam Mechanism Designing Using Matlab
+![This is an image](img/camshaft1.PNG)
